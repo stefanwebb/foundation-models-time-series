@@ -4,7 +4,7 @@ This repo contains the supporting materials for the webinar.
 
 ## Materials
 
-- [Slides](./slides/foundation models for time series - stefan webb.pdf)
+- [Slides](./slides/foundation%20models%20for%20time%20series%20-%20stefan%20webb.pdf)
 - [Getting started with TimesFM for Forecasting](./notebooks/1_getting_started_with_timesfm.ipynb)
 
 ## Next Steps
